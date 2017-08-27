@@ -1,4 +1,6 @@
 # Platformer
+[![Love2d](https://img.shields.io/badge/love2d-engine-brightgreen.svg)](https://love2d.org/)
+[![Love2d](https://img.shields.io/badge/license-ZLIB-blue.svg?style=plastic)](https://github.com/superdub/Platformer/blob/master/LICENSE)
 
 This game is written in scripting language lua on the love2d engine and using shaders for the glsl.
 
